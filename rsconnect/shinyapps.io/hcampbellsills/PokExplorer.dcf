@@ -1,0 +1,10 @@
+name: PokExplorer
+title: PokExplorer
+username:
+account: hcampbellsills
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3440670
+bundleId: 4083643
+url: https://hcampbellsills.shinyapps.io/PokExplorer/
+when: 1610398597.34106
